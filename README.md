@@ -14,33 +14,11 @@
 
 <table>
 <tr>
-<td valign="top">
-<img src="profile.png" width="260" />
+<td valign="top" align="center">
+<img src="ascii_portrait.svg" width="320" />
 </td>
 <td valign="top">
-<pre>
-deepak@kumar
-─────────────────────────────────────────
-OS .................... Arch Linux
-Shell .................. Bash
-Editor .................. VS Code
-Role ..................... Software Developer
-Focus ..................... AI & Backend Development
-Exploring .................. DSA, AI, Cloud, System Design
-
-Languages.Programming ......... Python, C, C++, Java, JS
-Languages.Markup .............. HTML, CSS
-Tools .......................... Git, GitHub, Firebase, Supabase
-
-─── Contact ─────────────────────────────────────────
-Email ........................ deepakkumarsaha37@gmail.com
-LinkedIn ..................... linkedin.com/in/deepak---kumar
-GitHub ........................ github.com/Deepak-kumar-36
-
-─── Coding Profiles ─────────────────────────────────
-LeetCode ...................... leetcode.com/Deepak--Kumar
-Codeforces ..................... Deepak_36
-</pre>
+<img src="bio.svg" width="500" />
 </td>
 </tr>
 </table>
@@ -118,7 +96,13 @@ A self-improvement and habit-tracking platform — set goals, build streaks, and
     <img src="https://img.shields.io/badge/Email-171208?style=for-the-badge&logo=gmail&logoColor=FFB300" />
   </a>
   <a href="https://www.linkedin.com/in/deepak---kumar/">
-    <img src="https://img.shields.io/badge/LinkedIn-171208?style=for-the-badge&logo=linkedin&logoColor=FFB300" />
+    <img src="https://img.shields.io/badge/Li
+</td>
+</tr>
+</table>
+
+<br/>
+nkedIn-171208?style=for-the-badge&logo=linkedin&logoColor=FFB300" />
   </a>
   <a href="https://leetcode.com/Deepak--Kumar/">
     <img src="https://img.shields.io/badge/LeetCode-171208?style=for-the-badge&logo=leetcode&logoColor=FFB300" />

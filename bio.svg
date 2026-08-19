@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 450" width="500" height="450">
+  <style>
+    text {
+      font-family: 'JetBrains Mono', 'Courier New', monospace;
+      font-size: 14px;
+      white-space: pre;
+    }
+    .title { fill: #ff9eaa; font-weight: bold; }
+    .sep { fill: #e5989b; }
+    .key { fill: #ff9eaa; font-weight: 500; }
+    .value { fill: #4a3b3c; } /* Soft warm charcoal for light mode */
+    .cc { fill: #e5989b; }
+    
+    /* Make the values readable in GitHub dark mode */
+    @media (prefers-color-scheme: dark) {
+      .value { fill: #fdf5e6; } /* Warm, aesthetic cream */
+    }
+  </style>
+
+  <text x="0" y="20">
+    <tspan class="title">deepak@kumar</tspan> <tspan class="sep">────────────────────────────────────</tspan>
+    
+    <tspan x="0" y="50" class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="cc"> .................... </tspan><tspan class="value">Arch Linux</tspan>
+    <tspan x="0" y="70" class="cc">. </tspan><tspan class="key">Shell</tspan><tspan class="cc"> ................. </tspan><tspan class="value">Bash, Kitty</tspan>
+    <tspan x="0" y="90" class="cc">. </tspan><tspan class="key">Editor</tspan><tspan class="cc"> ................ </tspan><tspan class="value">VS Code</tspan>
+    <tspan x="0" y="110" class="cc">. </tspan><tspan class="key">Role</tspan><tspan class="cc"> .................. </tspan><tspan class="value">Software Developer</tspan>
+    <tspan x="0" y="130" class="cc">. </tspan><tspan class="key">Focus</tspan><tspan class="cc"> ................. </tspan><tspan class="value">AI &amp; Backend Development</tspan>
+    <tspan x="0" y="150" class="cc">. </tspan><tspan class="key">Exploring</tspan><tspan class="cc"> ............. </tspan><tspan class="value">DSA, AI, Cloud, System Design</tspan>
+
+    <tspan x="0" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan><tspan class="cc"> ... </tspan><tspan class="value">Python, C, C++, Java</tspan>
+    <tspan x="0" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Markup</tspan><tspan class="cc"> ........ </tspan><tspan class="value">HTML, CSS</tspan>
+    <tspan x="0" y="230" class="cc">. </tspan><tspan class="key">Tools</tspan><tspan class="cc"> ................. </tspan><tspan class="value">Git, GitHub, Firebase</tspan>
+
+    <tspan x="0" y="270" class="sep">─── </tspan><tspan class="title">Contact</tspan><tspan class="sep"> ────────────────────────────────────</tspan>
+    <tspan x="0" y="300" class="cc">. </tspan><tspan class="key">Email</tspan><tspan class="cc"> ................. </tspan><tspan class="value">deepakkumarsaha37@gmail.com</tspan>
+    <tspan x="0" y="320" class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="cc"> .............. </tspan><tspan class="value">linkedin.com/in/deepak---kumar</tspan>
+    <tspan x="0" y="340" class="cc">. </tspan><tspan class="key">GitHub</tspan><tspan class="cc"> ................ </tspan><tspan class="value">github.com/Deepak-kumar-36</tspan>
+
+    <tspan x="0" y="380" class="sep">─── </tspan><tspan class="title">Coding Profiles</tspan><tspan class="sep"> ────────────────────────────</tspan>
+    <tspan x="0" y="410" class="cc">. </tspan><tspan class="key">LeetCode</tspan><tspan class="cc"> .............. </tspan><tspan class="value">leetcode.com/Deepak--Kumar</tspan>
+    <tspan x="0" y="430" class="cc">. </tspan><tspan class="key">Codeforces</tspan><tspan class="cc"> ............ </tspan><tspan class="value">codeforces.com/profile/Deepak_36</tspan>
+  </text>
+</svg>
