@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="sakura_bg_v2.png" width="100%" style="border-radius:15px; margin-bottom: 20px;" />
+  <img src="yozakura_bg.png" width="100%" style="border-radius:15px; margin-bottom: 20px;" alt="Night Sakura Background" />
 </div>
 
 <div align="center">
 
 <a href="https://deepak-kumar-36.github.io/">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=DC143C&center=true&vCenter=true&width=560&lines=Software+Developer;Open+Source+Enthusiast;AI+%26+Backend+Developer;Currently+debugging+something..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=FF5DA2&center=true&vCenter=true&width=560&lines=Software+Developer;Open+Source+Enthusiast;AI+%26+Backend+Developer;Currently+watching+the+petals+fall..." alt="Typing SVG" />
 </a>
 
 </div>
@@ -15,26 +15,26 @@
 <table>
 <tr>
 <td valign="top" align="center">
-<img src="ascii_portrait.svg" width="320" />
+<img src="ascii_portrait.svg" width="320" alt="Deepak Kumar ASCII Portrait" />
 </td>
 <td valign="top">
-<img src="bio.svg" width="500" />
+<img src="bio.svg" width="500" alt="Sakura Theme Terminal Bio" />
 </td>
 </tr>
 </table>
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="24"/> Launch the interactive terminal
+### 🌸 Launch the Interactive Terminal 🌸
 
 **[deepak-kumar-36.github.io →](https://deepak-kumar-36.github.io/)**
-type `help` once it boots up.
+*type `help` or `hanami` once it boots up.*
 
 </div>
 
 <br/>
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFB7C5?style=for-the-badge&logo=python&logoColor=DC143C" />
@@ -56,15 +56,13 @@ type `help` once it boots up.
 
 <p align="center">
   <em>currently exploring</em><br/>
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-171208?style=flat-square&color=FFB7C5&labelColor=FDF6F5" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-171208?style=flat-square&color=FFB7C5&labelColor=FDF6F5" />
-  <img src="https://img.shields.io/badge/Cloud%20Computing-171208?style=flat-square&color=FFB7C5&labelColor=FDF6F5" />
-  <img src="https://img.shields.io/badge/System%20Design-171208?style=flat-square&color=FFB7C5&labelColor=FDF6F5" />
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0D0712?style=flat-square&color=FF5DA2&labelColor=0D0712" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0D0712?style=flat-square&color=FF5DA2&labelColor=0D0712" />
+  <img src="https://img.shields.io/badge/Cloud%20Computing-0D0712?style=flat-square&color=FF5DA2&labelColor=0D0712" />
+  <img src="https://img.shields.io/badge/System%20Design-0D0712?style=flat-square&color=FF5DA2&labelColor=0D0712" />
 </p>
 
-
-
-## Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -89,30 +87,23 @@ A self-improvement and habit-tracking platform — set goals, build streaks, and
 
 <br/>
 
-## Contact
+## 📩 Contact
 
 <p align="center">
   <a href="mailto:deepakkumarsaha37@gmail.com">
-    <img src="https://img.shields.io/badge/Email-171208?style=for-the-badge&logo=gmail&logoColor=FFB300" />
+    <img src="https://img.shields.io/badge/Email-0D0712?style=for-the-badge&logo=gmail&logoColor=FF5DA2" />
   </a>
   <a href="https://www.linkedin.com/in/deepak---kumar/">
-    <img src="https://img.shields.io/badge/Li
-</td>
-</tr>
-</table>
-
-<br/>
-nkedIn-171208?style=for-the-badge&logo=linkedin&logoColor=FFB300" />
+    <img src="https://img.shields.io/badge/LinkedIn-0D0712?style=for-the-badge&logo=linkedin&logoColor=FF5DA2" />
   </a>
   <a href="https://leetcode.com/Deepak--Kumar/">
-    <img src="https://img.shields.io/badge/LeetCode-171208?style=for-the-badge&logo=leetcode&logoColor=FFB300" />
+    <img src="https://img.shields.io/badge/LeetCode-0D0712?style=for-the-badge&logo=leetcode&logoColor=FF5DA2" />
   </a>
   <a href="https://codeforces.com/profile/Deepak_36">
-    <img src="https://img.shields.io/badge/Codeforces-171208?style=for-the-badge&logo=codeforces&logoColor=FFB300" />
+    <img src="https://img.shields.io/badge/Codeforces-0D0712?style=for-the-badge&logo=codeforces&logoColor=FF5DA2" />
   </a>
 </p>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Deepak-kumar-36&color=DC143C&style=flat-square&label=profile+views" />
+<img src="https://komarev.com/ghpvc/?username=Deepak-kumar-36&color=FF5DA2&style=flat-square&label=profile+views" />
 </div>
-
