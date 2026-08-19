@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="yozakura_bg.png" width="100%" style="border-radius:15px; margin-bottom: 20px;" alt="Night Sakura Background" />
-</div>
-
-<div align="center">
 
 <a href="https://deepak-kumar-36.github.io/">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=FF5DA2&center=true&vCenter=true&width=560&lines=Software+Developer;Open+Source+Enthusiast;AI+%26+Backend+Developer;Currently+watching+the+petals+fall..." alt="Typing SVG" />
