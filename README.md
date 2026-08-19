@@ -23,7 +23,7 @@
 
 ### 🌸 Launch the Interactive Terminal 🌸
 
-**[deepak-kumar-36.github.io →](https://deepak-kumar-36.github.io/)**
+**[deepak-kumar-36.github.io/Deepak-kumar-36 →](https://deepak-kumar-36.github.io/Deepak-kumar-36/)**
 *type `help` or `hanami` once it boots up.*
 
 </div>
